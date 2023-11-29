@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    background-color: #f3f4f5;
+    padding-left: 2rem;
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+}
+p {
+    margin: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 18px;
+color: #757575;
+
+}
+li {
+    margin: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 18px;
+color: #757575;
+}
+.listas >li{
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
